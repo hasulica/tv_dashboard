@@ -150,7 +150,8 @@ h3 {
   width: inherit;
   height: inherit;
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: top;
+	padding: 20px 0 0;
 }
 
 .widget.status-warning {
